@@ -42,7 +42,7 @@ class _Screen5State extends State<Screen5> {
                       ),
                     ),
                     const SizedBox(
-                      height: 20,
+                      height: 10,
                     ),
                     Column(
                       children: [
@@ -59,23 +59,20 @@ class _Screen5State extends State<Screen5> {
                                           BorderRadius.all(Radius.circular(10)),
                                       color:
                                           Color.fromARGB(255, 200, 218, 233)),
-                                  height: 100,
-                                  width: 120,
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(10.0),
-                                    child: Column(
-                                      children: [
-                                        Icon(
-                                          Icons.book_online_outlined,
-                                          size: 40,
-                                          color: Colors.blue,
-                                        ),
-                                        Text(
-                                          "Education",
-                                          style: TextStyle(fontSize: 15),
-                                        )
-                                      ],
-                                    ),
+                                  height: 90,
+                                  width: 90,
+                                  child: Column(
+                                    children: [
+                                      Icon(
+                                        Icons.book_online_outlined,
+                                        size: 40,
+                                        color: Colors.blue,
+                                      ),
+                                      Text(
+                                        "Education",
+                                        style: TextStyle(fontSize: 15),
+                                      )
+                                    ],
                                   ),
                                 ),
                               ),
@@ -87,23 +84,20 @@ class _Screen5State extends State<Screen5> {
                                           BorderRadius.all(Radius.circular(10)),
                                       color:
                                           Color.fromARGB(255, 200, 218, 233)),
-                                  height: 100,
-                                  width: 120,
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(10.0),
-                                    child: Column(
-                                      children: [
-                                        Icon(
-                                          Icons.book_online_outlined,
-                                          size: 40,
-                                          color: Colors.blue,
-                                        ),
-                                        Text(
-                                          "Education",
-                                          style: TextStyle(fontSize: 15),
-                                        )
-                                      ],
-                                    ),
+                                  height: 90,
+                                  width: 90,
+                                  child: Column(
+                                    children: [
+                                      Icon(
+                                        Icons.book_online_outlined,
+                                        size: 40,
+                                        color: Colors.blue,
+                                      ),
+                                      Text(
+                                        "Education",
+                                        style: TextStyle(fontSize: 15),
+                                      )
+                                    ],
                                   ),
                                 ),
                               ),
@@ -115,23 +109,20 @@ class _Screen5State extends State<Screen5> {
                                           BorderRadius.all(Radius.circular(10)),
                                       color:
                                           Color.fromARGB(255, 200, 218, 233)),
-                                  height: 100,
-                                  width: 120,
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(10.0),
-                                    child: Column(
-                                      children: const [
-                                        Icon(
-                                          Icons.book_online_outlined,
-                                          size: 40,
-                                          color: Colors.blue,
-                                        ),
-                                        Text(
-                                          "Education",
-                                          style: TextStyle(fontSize: 15),
-                                        )
-                                      ],
-                                    ),
+                                  height: 90,
+                                  width: 90,
+                                  child: Column(
+                                    children: const [
+                                      Icon(
+                                        Icons.book_online_outlined,
+                                        size: 40,
+                                        color: Colors.blue,
+                                      ),
+                                      Text(
+                                        "Education",
+                                        style: TextStyle(fontSize: 15),
+                                      )
+                                    ],
                                   ),
                                 ),
                               )
@@ -152,23 +143,20 @@ class _Screen5State extends State<Screen5> {
                                       color:
                                           Color.fromARGB(255, 200, 218, 233)),
                                   clipBehavior: Clip.none,
-                                  height: 100,
-                                  width: 120,
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(10.0),
-                                    child: Column(
-                                      children: const [
-                                        Icon(
-                                          Icons.book_online_outlined,
-                                          size: 40,
-                                          color: Colors.blue,
-                                        ),
-                                        Text(
-                                          "Education",
-                                          style: TextStyle(fontSize: 15),
-                                        )
-                                      ],
-                                    ),
+                                  height: 90,
+                                  width: 90,
+                                  child: Column(
+                                    children: const [
+                                      Icon(
+                                        Icons.book_online_outlined,
+                                        size: 40,
+                                        color: Colors.blue,
+                                      ),
+                                      Text(
+                                        "Education",
+                                        style: TextStyle(fontSize: 15),
+                                      )
+                                    ],
                                   ),
                                 ),
                               ),
@@ -180,23 +168,20 @@ class _Screen5State extends State<Screen5> {
                                           BorderRadius.all(Radius.circular(10)),
                                       color:
                                           Color.fromARGB(255, 200, 218, 233)),
-                                  height: 100,
-                                  width: 120,
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(10.0),
-                                    child: Column(
-                                      children: const [
-                                        Icon(
-                                          Icons.book_online_outlined,
-                                          size: 40,
-                                          color: Colors.blue,
-                                        ),
-                                        Text(
-                                          "Education",
-                                          style: TextStyle(fontSize: 15),
-                                        )
-                                      ],
-                                    ),
+                                  height: 90,
+                                  width: 90,
+                                  child: Column(
+                                    children: const [
+                                      Icon(
+                                        Icons.book_online_outlined,
+                                        size: 40,
+                                        color: Colors.blue,
+                                      ),
+                                      Text(
+                                        "Education",
+                                        style: TextStyle(fontSize: 15),
+                                      )
+                                    ],
                                   ),
                                 ),
                               ),
@@ -208,23 +193,20 @@ class _Screen5State extends State<Screen5> {
                                           BorderRadius.all(Radius.circular(10)),
                                       color:
                                           Color.fromARGB(255, 200, 218, 233)),
-                                  height: 100,
-                                  width: 120,
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(10.0),
-                                    child: Column(
-                                      children: const [
-                                        Icon(
-                                          Icons.book_online_outlined,
-                                          size: 40,
-                                          color: Colors.blue,
-                                        ),
-                                        Text(
-                                          "Education",
-                                          style: TextStyle(fontSize: 15),
-                                        )
-                                      ],
-                                    ),
+                                  height: 90,
+                                  width: 90,
+                                  child: Column(
+                                    children: const [
+                                      Icon(
+                                        Icons.book_online_outlined,
+                                        size: 40,
+                                        color: Colors.blue,
+                                      ),
+                                      Text(
+                                        "Education",
+                                        style: TextStyle(fontSize: 15),
+                                      )
+                                    ],
                                   ),
                                 ),
                               )
@@ -250,9 +232,9 @@ class _Screen5State extends State<Screen5> {
                         child: Column(
                           children: [
                             const Padding(
-                              padding: EdgeInsets.fromLTRB(20, 20, 270, 0),
+                              padding: EdgeInsets.fromLTRB(0, 10, 170, 0),
                               child: Text(
-                                "Great offers\n just started now",
+                                "Great offers\njust started now",
                                 style: TextStyle(
                                     fontSize: 17,
                                     fontWeight: FontWeight.bold,
@@ -263,8 +245,7 @@ class _Screen5State extends State<Screen5> {
                               height: 20,
                             ),
                             Padding(
-                              padding:
-                                  const EdgeInsets.fromLTRB(20, 0, 310, 20),
+                              padding: const EdgeInsets.fromLTRB(20, 0, 250, 8),
                               child: ElevatedButton(
                                 onPressed: (() {
                                   Navigator.push(

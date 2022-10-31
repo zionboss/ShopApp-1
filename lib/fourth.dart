@@ -48,7 +48,7 @@ class _FouthScreenState extends State<FouthScreen> {
                       Row(
                         children: const [
                           Padding(
-                            padding: EdgeInsets.fromLTRB(20, 10, 5, 20),
+                            padding: EdgeInsets.fromLTRB(20, 10, 5, 10),
                             child: Text(
                               "Hey Group D",
                               style: TextStyle(
@@ -84,9 +84,11 @@ class _FouthScreenState extends State<FouthScreen> {
                         child: Container(
                           height: 40,
                           width: double.infinity,
-                          color: Color.fromARGB(255, 59, 158, 238),
+                          // color: Color.fromARGB(255, 59, 158, 238),
                           child: const TextField(
                             decoration: InputDecoration(
+                              fillColor: Color.fromARGB(255, 168, 206, 237),
+                              filled: true,
                               labelText: "Search",
                               border: OutlineInputBorder(
                                   borderRadius:
@@ -165,7 +167,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -261,7 +263,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -357,7 +359,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -453,7 +455,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -549,7 +551,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -645,7 +647,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -741,7 +743,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -837,7 +839,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -933,7 +935,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -1029,7 +1031,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
@@ -1125,7 +1127,7 @@ class _FouthScreenState extends State<FouthScreen> {
                               ),
                               color: Color.fromARGB(255, 191, 219, 241)),
                           height: 30,
-                          width: 154,
+                          width: 164,
                           child: Row(
                             children: [
                               const Padding(
